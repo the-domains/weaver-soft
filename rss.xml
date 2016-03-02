@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Weaver-soft]]></title>
         <description><![CDATA[Weaver-soft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/weaver-soft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 00:53:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 00:53:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/weaver-soft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b5aeae6-21eb-4fd3-abb7-d99d19ca4f52.png">]]></description>
-            <link>undefineda16d1077-fb21-4d74-9cbc-5d2a647eda9e/index.html</link>
+            <link>https://thegrid.ai/weaver-soft/a16d1077-fb21-4d74-9cbc-5d2a647eda9e/index.html</link>
             <guid isPermaLink="false">a16d1077-fb21-4d74-9cbc-5d2a647eda9e</guid>
-            <pubDate>Wed, 02 Mar 2016 00:52:22 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 00:53:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
